@@ -1,7 +1,13 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+  - title: "Registration"
+    url: /registration
 
-  - title: "Sample Navigation Link 2"
-    url: /
+  - title: "Schedule"
+    url: /schedule
+
+  - title: "Local Information"
+    url: /local
+
+  - title: "Day-by-Day"
+    url: /daybyday
